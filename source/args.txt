@@ -1,0 +1,24 @@
+##########################################################
+Lista de Parâmetros para Simulação de Embebição e Drenagem
+##########################################################
+porosidade     = 0.2
+diametro       = 0.0381
+comprimento    = 0.1
+permeabilidade = 0.000000000000037033
+exp_krw        = 3
+exp_kro        = 3
+exp_pc         = 4
+krwMax         = 0.4
+kroMax         = 0.8
+pcMax          = 413685
+sor            = 0.1
+swi            = 0.2
+pct            = 151988
+Patm           = 101325
+vazao_inj      = 0.00000005
+uo             = 0.01
+uw             = 0.001
+DsMax          = 0.001
+vpi1           = 10
+vpi2           = 25
+si             = 1
